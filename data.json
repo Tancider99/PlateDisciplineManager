@@ -1,0 +1,384 @@
+{
+    "games": [
+        {
+            "id": "b2913017-0fe8-48a7-8451-e71e7aaa68a5",
+            "season": "2026オープン戦",
+            "date": "2026-02-16 18:15:24",
+            "teams": {
+                "home": {
+                    "name": "a",
+                    "lineup": [
+                        "a",
+                        "a",
+                        "a",
+                        "a",
+                        "a",
+                        "a",
+                        "a",
+                        "a",
+                        "a"
+                    ],
+                    "pitcher": "a"
+                },
+                "away": {
+                    "name": "b",
+                    "lineup": [
+                        "b",
+                        "b",
+                        "b",
+                        "b",
+                        "b",
+                        "b",
+                        "b",
+                        "b",
+                        "b"
+                    ],
+                    "pitcher": "b"
+                }
+            },
+            "state": {
+                "inning": 4,
+                "is_top": false,
+                "outs": 1,
+                "balls": 0,
+                "strikes": 0,
+                "current_batter_idx": {
+                    "home": 3,
+                    "away": 4
+                },
+                "score": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "pitches": [
+                {
+                    "batter": "b",
+                    "pitcher": "a",
+                    "zone": "Out",
+                    "result": "Ball",
+                    "is_first_pitch": true,
+                    "inning": 1,
+                    "is_top": true,
+                    "balls_before": 0,
+                    "strikes_before": 0
+                },
+                {
+                    "batter": "b",
+                    "pitcher": "a",
+                    "zone": "In",
+                    "result": "Called Strike",
+                    "is_first_pitch": false,
+                    "inning": 1,
+                    "is_top": true,
+                    "balls_before": 1,
+                    "strikes_before": 0
+                },
+                {
+                    "batter": "b",
+                    "pitcher": "a",
+                    "zone": "In",
+                    "result": "Swinging Strike",
+                    "is_first_pitch": false,
+                    "inning": 1,
+                    "is_top": true,
+                    "balls_before": 1,
+                    "strikes_before": 1
+                }
+            ]
+        },
+        {
+            "id": "c31786df-7a72-41f4-882b-85d410461f8d",
+            "season": "2026オープン戦",
+            "date": "2026-02-16 18:17:02",
+            "teams": {
+                "home": {
+                    "name": "0",
+                    "lineup": [
+                        "1",
+                        "2",
+                        "2",
+                        "1",
+                        "1",
+                        "1",
+                        "1",
+                        "1",
+                        "1"
+                    ],
+                    "pitcher": "0"
+                },
+                "away": {
+                    "name": "0",
+                    "lineup": [
+                        "1",
+                        "2",
+                        "1",
+                        "1",
+                        "1",
+                        "1",
+                        "1",
+                        "1",
+                        "1"
+                    ],
+                    "pitcher": "0"
+                }
+            },
+            "state": {
+                "inning": 1,
+                "is_top": true,
+                "outs": 0,
+                "balls": 0,
+                "strikes": 0,
+                "current_batter_idx": {
+                    "home": 0,
+                    "away": 0
+                },
+                "score": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "pitches": []
+        },
+        {
+            "id": "7ed85179-abab-4703-ab58-c54087756f61",
+            "season": "2026オープン戦",
+            "date": "2026-02-16 18:17:13",
+            "teams": {
+                "home": {
+                    "name": "0",
+                    "lineup": [
+                        "1",
+                        "2",
+                        "2",
+                        "1",
+                        "1",
+                        "1",
+                        "1",
+                        "1",
+                        "1"
+                    ],
+                    "pitcher": "0"
+                },
+                "away": {
+                    "name": "00",
+                    "lineup": [
+                        "1",
+                        "2",
+                        "1",
+                        "1",
+                        "1",
+                        "1",
+                        "1",
+                        "1",
+                        "1"
+                    ],
+                    "pitcher": "0"
+                }
+            },
+            "state": {
+                "inning": 1,
+                "is_top": true,
+                "outs": 0,
+                "balls": 0,
+                "strikes": 0,
+                "current_batter_idx": {
+                    "home": 0,
+                    "away": 0
+                },
+                "score": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "pitches": []
+        },
+        {
+            "id": "a44f5eb7-d231-4d85-aee1-a7f0e500151d",
+            "season": "2026オープン戦",
+            "date": "2026-02-16 18:17:23",
+            "teams": {
+                "home": {
+                    "name": "aa",
+                    "lineup": [
+                        "1",
+                        "2",
+                        "2",
+                        "1",
+                        "1",
+                        "1",
+                        "1",
+                        "1",
+                        "1"
+                    ],
+                    "pitcher": "0"
+                },
+                "away": {
+                    "name": "a",
+                    "lineup": [
+                        "1",
+                        "2",
+                        "1",
+                        "1",
+                        "1",
+                        "1",
+                        "1",
+                        "1",
+                        "1"
+                    ],
+                    "pitcher": "0"
+                }
+            },
+            "state": {
+                "inning": 1,
+                "is_top": true,
+                "outs": 0,
+                "balls": 0,
+                "strikes": 0,
+                "current_batter_idx": {
+                    "home": 0,
+                    "away": 0
+                },
+                "score": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "pitches": []
+        },
+        {
+            "id": "f738494d-c41a-424b-9538-23ab68ddc835",
+            "season": "2026オープン戦",
+            "date": "2026-02-16 18:17:32",
+            "teams": {
+                "home": {
+                    "name": "aa",
+                    "lineup": [
+                        "1",
+                        "2",
+                        "2",
+                        "1",
+                        "1",
+                        "1",
+                        "1",
+                        "1",
+                        "1"
+                    ],
+                    "pitcher": "0"
+                },
+                "away": {
+                    "name": "a",
+                    "lineup": [
+                        "1",
+                        "2",
+                        "1",
+                        "1",
+                        "1",
+                        "1",
+                        "1",
+                        "1",
+                        "1"
+                    ],
+                    "pitcher": "99"
+                }
+            },
+            "state": {
+                "inning": 1,
+                "is_top": true,
+                "outs": 0,
+                "balls": 0,
+                "strikes": 0,
+                "current_batter_idx": {
+                    "home": 0,
+                    "away": 0
+                },
+                "score": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "pitches": []
+        },
+        {
+            "id": "6cdbe8f8-d7de-4491-bba0-d9d9f3e6aa63",
+            "season": "2026オープン戦",
+            "date": "2026-02-16 18:19:09",
+            "teams": {
+                "home": {
+                    "name": "a",
+                    "lineup": [
+                        "aaa",
+                        "a",
+                        "a",
+                        "a",
+                        "a",
+                        "a",
+                        "a",
+                        "a",
+                        "a"
+                    ],
+                    "pitcher": "aa"
+                },
+                "away": {
+                    "name": "b",
+                    "lineup": [
+                        "bbb",
+                        "b",
+                        "b",
+                        "b",
+                        "b",
+                        "b",
+                        "b",
+                        "b",
+                        "b"
+                    ],
+                    "pitcher": "bb"
+                }
+            },
+            "state": {
+                "inning": 3,
+                "is_top": true,
+                "outs": 0,
+                "balls": 0,
+                "strikes": 0,
+                "current_batter_idx": {
+                    "home": 2,
+                    "away": 2
+                },
+                "score": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "pitches": []
+        }
+    ],
+    "players": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "11",
+        "22",
+        "33",
+        "44",
+        "55",
+        "66",
+        "77",
+        "88",
+        "99",
+        "0",
+        "00",
+        "a",
+        "b",
+        "aaa",
+        "bbb",
+        "aa",
+        "bb"
+    ]
+}
