@@ -471,6 +471,7 @@ class PlateDisciplineApp:
         add_btn(p_out, "Ball", "Ball.TButton", lambda: self.log("Ball", False))
         add_btn(p_out, "Swing (Miss)", "Yellow.TButton", lambda: self.log("Swinging Strike", False))
         add_btn(p_out, "Foul", "Yellow.TButton", lambda: self.log("Foul", False))
+        add_btn(p_out, "Dead Ball", "Ball.TButton", lambda: self.log("Dead Ball", False))
         add_btn(p_out, "Hit/Safe", "InPlay.TButton", lambda: self.log("In Play (Safe)", False))
         add_btn(p_out, "Out", "Strike.TButton", lambda: self.log("In Play (Out)", False))
         

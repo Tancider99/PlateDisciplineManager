@@ -258,6 +258,9 @@ class PlateDisciplineCalculator:
                 s["strikes"] += 1
             # Foul with 2 strikes stays at 2 strikes
         
+        elif result == "Dead Ball":
+            self._next_batter()
+
         elif "In Play" in result:
             if "(Out)" in result:
                 self._record_out()
@@ -445,10 +448,11 @@ class PlateDisciplineCalculator:
                     strikes_before = p.get("strikes_before", 0)
                     balls_before = p.get("balls_before", 0)
                     
-                    # Check for Terminal Pitch (PA)
                     is_pa = False
                     if "In Play" in result:
                         is_pa = True
+                    elif result == "Dead Ball":
+                        is_pa = True # HBP
                     elif result == "Ball" and balls_before == 3:
                         is_pa = True # Walk
                     elif (result == "Called Strike" or result == "Swinging Strike") and strikes_before == 2:
